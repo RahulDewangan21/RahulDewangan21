@@ -55,14 +55,6 @@ const rahulDewangan = {
 <br/>
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulDewangan21&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" width="100%"/>
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
