@@ -27,30 +27,10 @@ const rahulDewangan = {
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nextjs,tailwind,redux,nodejs,express,firebase,mongodb,postgres,vscode,git,postman,vercel,netlify" />
 </p>
 
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
-</p>
-
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-**Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres" />
-</p>
-
-**Dev Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,postman,vercel,netlify" />
-</p>
 
 <br/>
 
