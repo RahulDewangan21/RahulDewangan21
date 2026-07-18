@@ -54,28 +54,6 @@ const rahulDewangan = {
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RahulDewangan21&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulDewangan21&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=RahulDewangan21&theme=nord&border=7dd3fc&background=0d1117&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahulDewangan21&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" />
-</div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
