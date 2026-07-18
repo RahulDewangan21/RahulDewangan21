@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Rahul%20Dewangan&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+with+React+%26+Node.js;Always+exploring+new+tech" alt="Typing SVG" />
+
 
 <br/>
 
