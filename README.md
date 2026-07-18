@@ -6,8 +6,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RahulDewangan21&color=7dd3fc&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/RahulDewangan21?label=Followers&style=flat-square&color=7dd3fc)
 
 </div>
 
