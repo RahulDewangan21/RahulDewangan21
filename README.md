@@ -15,7 +15,7 @@
 
 ```typescript
 const rahulDewangan = {
-  title: "Full Stack Developer & AI Enthusiast",
+  title: "Full Stack Developer & AI",
   status: "Learning, building, and shipping code",
   openTo: "Collaborations, Work & Freelance projects"
 };
