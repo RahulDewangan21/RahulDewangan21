@@ -35,29 +35,15 @@ const rahulDewangan = {
 **AI / GenAI / Agentic AI**
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/RAG%20Pipelines-7dd3fc?style=for-the-badge&logo=databricks&logoColor=black" />
   <img src="https://img.shields.io/badge/Vector%20DBs-7dd3fc?style=for-the-badge&logo=elasticsearch&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-3776AB?style=for-the-badge&logo=meta&logoColor=white" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-7dd3fc?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Fine--Tuning-7dd3fc?style=for-the-badge&logo=pytorch&logoColor=black" />
   <img src="https://img.shields.io/badge/Agentic%20Workflows-7dd3fc?style=for-the-badge&logo=n8n&logoColor=black" />
-  <img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 <br/>
