@@ -14,9 +14,7 @@ const rahulDewangan = {
 ```
 <br/>
 
-Got it — here's the full Tech Stack section with everything converted to shields.io badges for a consistent look:
 
-markdown
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
