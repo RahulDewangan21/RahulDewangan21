@@ -9,7 +9,6 @@
 const rahulDewangan = {
   title: "Full Stack Developer & AI/Agentic Systems",
   status: "Learning, building, and shipping code",
-  focus: ["GenAI Integrations", "Agentic AI Workflows", "DevOps & CI/CD"],
   openTo: "Collaborations, Work & Freelance projects"
 };
 ```
